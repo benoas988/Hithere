@@ -28,7 +28,7 @@ document.getElementById("home").addEventListener("click", function(event){
   });
   document.getElementById("web").addEventListener("click", function(event){
       event.preventDefault();
-      window.location.href = "https://www.google.com";
+      window.location.href = "https://benoas988.github.io/hithere/home.html";
   });
 
   
